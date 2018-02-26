@@ -1,0 +1,11 @@
+enter_data:
+ name: "tester1"
+ address: "12345 acbd test lane"
+ zip_code: 12345
+ email: "acbd@xyz.com"
+
+success_msg:
+ msg: "YOUR ADOPTION HAS BEEN SET UP"
+
+unavailable_msg:
+ msg: "SORRY, ANIMAL NOT AVAILABLE"
